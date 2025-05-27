@@ -3,7 +3,7 @@ from main import *
 
 
 def test_add():
-    assert add(5, 8) == 13
+    assert add(5, 7) == 13
 
 def test_minus():
     assert minus(10,5) == 5
